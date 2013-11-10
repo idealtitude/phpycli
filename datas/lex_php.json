@@ -1,0 +1,164 @@
+{
+    "styles": [
+        {
+            "id": "stc.STC_STYLE_DEFAULT",
+            "val": "face:mono"
+        },
+        {
+            "id": "stc.STC_STYLE_LINENUMBER",
+            "val": "back:#C0C0C0"
+        },
+        {
+            "id": "stc.STC_STYLE_CONTROLCHAR",
+            "val": "face:mono"
+        },
+        {
+            "id": "stc.STC_STYLE_BRACELIGHT",
+            "val": "fore:#4D4D4D,back:#ADD8E6,bold"
+        },
+        {
+            "id": "stc.STC_STYLE_BRACEBAD",
+            "val": "fore:#000000,back:#FF0000,bold"
+        },
+        {
+            "id": "stc.STC_STYLE_INDENTGUIDE",
+            "val": "fore:#998451"
+        },
+        {
+            "id": "stc.STC_H_TAG",
+            "val": "fore:#7F0000"
+        },
+        {
+            "id": "stc.STC_H_TAGUNKNOWN",
+            "val": "fore:#FF00000"
+        },
+        {
+            "id": "stc.STC_H_ATTRIBUTE",
+            "val": "fore:#1A1A1A"
+        },
+        {
+            "id": "stc.STC_H_ATTRIBUTEUNKNOWN",
+            "val": "fore:#FF0000"
+        },
+        {
+            "id": "stc.STC_H_NUMBER",
+            "val": "fore:#FF284E"
+        },
+        {
+            "id": "stc.STC_H_DOUBLESTRING",
+            "val": "fore:#00A100"
+        },
+        {
+            "id": "stc.STC_H_SINGLESTRING",
+            "val": "fore:#DADA00"
+        },
+        {
+            "id": "stc.STC_H_OTHER",
+            "val": "fore:#1A1A1A"
+        },
+        {
+            "id": "stc.STC_H_COMMENT",
+            "val": "fore:#4B6A4B"
+        },
+        {
+            "id": "stc.STC_H_XCCOMMENT",
+            "val": "fore:#74A374"
+        },
+        {
+            "id": "stc.STC_H_ENTITY",
+            "val": "fore:#0000FF"
+        },
+        {
+            "id": "stc.STC_H_TAGEND",
+            "val": "fore:#7F0000"
+        },
+        {
+            "id": "stc.STC_H_XMLSTART",
+            "val": "fore:#7F0000"
+        },
+        {
+            "id": "stc.STC_H_XMLEND",
+            "val": "fore:#7F0000"
+        },
+        {
+            "id": "stc.STC_H_SCRIPT",
+            "val": "fore:#A020F0"
+        },
+        {
+            "id": "stc.STC_H_ASP",
+            "val": "fore:#7F0000"
+        },
+        {
+            "id": "stc.STC_H_ASPAT",
+            "val": "fore:#7F0000"
+        },
+        {
+            "id": "stc.STC_H_VALUE",
+            "val": "fore:#1E90FF"
+        },
+        {
+            "id": "stc.STC_H_QUESTION",
+            "val": "fore:#8B6914,bold"
+        },
+        {
+            "id": "stc.STC_HPHP_DEFAULT",
+            "val": "fore:#000000"
+        },
+        {
+            "id": "stc.STC_HPHP_HSTRING",
+            "val": "fore:#008E00"
+        },
+        {
+            "id": "stc.STC_HPHP_SIMPLESTRING",
+            "val": "fore:#FF9200"
+        },
+        {
+            "id": "stc.STC_HPHP_WORD",
+            "val": "fore:#0000FF,bold"
+        },
+        {
+            "id": "stc.STC_HPHP_NUMBER",
+            "val": "fore:#1E90FF"
+        },
+        {
+            "id": "stc.STC_HPHP_VARIABLE",
+            "val": "fore:#A52A2A"
+        },
+        {
+            "id": "stc.STC_HPHP_COMPLEX_VARIABLE",
+            "val": "fore:#A52A2A"
+        },
+        {
+            "id": "stc.STC_HPHP_COMMENT",
+            "val": "fore:#7F7F7F"
+        },
+        {
+            "id": "stc.STC_HPHP_COMMENTLINE",
+            "val": "fore:#BFBFBF"
+        },
+        {
+            "id": "stc.STC_HPHP_HSTRING_VARIABLE",
+            "val": "fore:#A52A2A"
+        },
+        {
+            "id": "stc.STC_HPHP_OPERATOR",
+            "val": "fore:#2F2F52"
+        }
+    ],
+	"keywords": [
+		{"index": "0",
+		"value": "a abbr acronym address applet area b base basefont bdo big blockquote body br button caption center  cite code col colgroup dd del dfn dir div dl dt em fieldset font form frame frameset h1 h2 h3 h4 h5 h6 head hr html i iframe img input ins isindex kbd label legend li link map menu meta noframes noscript object ol optgroup option p param pre q s samp script select small span strike strong style sub sup table tbody td textarea tfoot th thead title tr tt u ul var xml xmlns xml:lang abbr accept-charset accept accesskey action align alink alt archive axis background bgcolor border cellpadding cellspacing char charoff charset checked cite class classid clear codebase codetype color cols colspan compact content coords data datafld dataformatas datapagesize datasrc datetime declare defer dir disabled enctype event face for frame frameborder headers height href hreflang hspace http-equiv id ismap label lang language leftmargin link longdesc marginwidth marginheight maxlength media method multiple name nohref noresize noshade nowrap object onblur onchange onclick ondblclick onfocus onkeydown onkeypress onkeyup onload onmousedown onmousemove onmouseover onmouseout onmouseup onreset onselect onsubmit onunload profile prompt readonly rel rev rows rowspan rules scheme scope selected shape size span src standby start style summary tabindex target text title topmargin type usemap valign value valuetype version vlink vspace width text password checkbox radio submit reset file hidden image article aside calendar canvas card command commandset datagrid datatree footer gauge header m menubar menulabel nav progress section switch tabbo active command contenteditable ping public !doctype"},
+
+		{"index": "1",
+		"value": "abstract boolean break byte case catch char class const continue debugger default delete do double else enum export extends false final finally float for function goto if implements import in instanceof int interface long native new null package private protected public return short static super switch synchronized this throw throws transient true try typeof var void volatile while with"},
+
+		{"index": "2",
+		"value": "addressof alias and as attribute base begin binary boolean byref byte byval call case compare const currency date decimal declare defbool defbyte defint deflng defcur defsng defdbl defdec defdate defstr defobj defvar dim do double each else elseif empty end enum eqv erase error event exit explicit false for friend function get gosub goto if imp implements in input integer is len let lib like load lock long loop lset me mid midb mod new next not nothing null object on option optional or paramarray preserve print private property public raiseevent randomize redim rem resume return rset seek select set single static step stop string sub then time to true type typeof unload until variant wend while with withevents xor"},
+
+		{"index": "3",
+		"value": "and assert break class continue def del elif else except exec finally for from global if import in is lambda None not or pass print raise return try while yield"},
+
+		{"index": "4",
+		"value": "abstract and array as break case catch class clone const continue declare default do else elseif enddeclare endfor endforeach endif endswitch endwhile extends final for foreach function global goto if implements interface instanceof namespace new or private protected public static switch throw try use var while xor __CLASS__ __DIR__ __FILE__ __LINE__ __FUNCTION__ __METHOD__ __NAMESPACE__ die echo empty exit eval include include_once isset list require require_once return print unset __halt_compiler exception define true false null"}
+	]
+}

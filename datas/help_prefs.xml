@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<richtext version="1.0.0.0" xmlns="http://www.wxwidgets.org">
+  <paragraphlayout textcolor="#000000" fontsize="11" fontstyle="90" fontweight="90" fontunderlined="0" fontface="Cantarell" alignment="1" parspacingafter="10" parspacingbefore="0" linespacing="10">
+    <paragraph>
+      <text fontweight="92">Ce champ doit contenir au choix soit une URL, soit une commande</text>
+      <text>.</text>
+    </paragraph>
+    <paragraph>
+      <text></text>
+    </paragraph>
+    <paragraph>
+      <text>1. URL: entrez l'URL et repr&#233;sentez les valeurs des param&#232;tres  avec la chaine de caract&#232;re</text>
+      <symbol>34</symbol>
+      <text>&lt;name&gt;</text>
+      <symbol>34</symbol>
+    </paragraph>
+    <paragraph>
+      <text></text>
+    </paragraph>
+    <paragraph>
+      <text>"2. Commande: entrez simplement le nom de la commande avec les options d&#233;sir&#233;es et repr&#233;sentez les arguments avec la chaine de caract&#232;re "</text>
+      <symbol>34</symbol>
+      <text>&lt;name&gt;</text>
+      <symbol>34</symbol>
+    </paragraph>
+    <paragraph>
+      <text></text>
+    </paragraph>
+    <paragraph>
+      <text>"Il est important de bien utiliser la chaine de caract&#232;re "</text>
+      <symbol>34</symbol>
+      <text>&lt;name&gt;</text>
+      <symbol>34</symbol>
+      <text>" aux endroits dont vous voulez remplacer les valeurs par celle du champ de recherche!"</text>
+    </paragraph>
+    <paragraph>
+      <text>"Par exemple si vous voulez ouvrir l'url "</text>
+      <symbol>34</symbol>
+      <text>http://localhost/?test=kelkechoz</text>
+      <symbol>34</symbol>
+      <text>", saisissez "</text>
+      <symbol>34</symbol>
+      <text>http://localhost/?test=&lt;name&gt;</text>
+      <symbol>34</symbol>
+      <text>"; de m&#234;me pour une commande comme "</text>
+      <symbol>34</symbol>
+      <text>ls -l /home</text>
+      <symbol>34</symbol>
+      <text>" saisissez  "</text>
+      <symbol>34</symbol>
+      <text>ls -l &lt;name&gt;</text>
+      <symbol>34</symbol>
+    </paragraph>
+  </paragraphlayout>
+</richtext>
