@@ -431,7 +431,7 @@ class PhPyCli(wx.Frame):
             "PhpPyCli est une application open source pour écrire et tester du code php. "
             "Plus d'info dans l'aide...",
             350, wx.ClientDC(self))
-        info.WebSite = ("", "Page de PhPycli sur github")
+        info.WebSite = ("http://steph-hen.github.io/phpycli", "Page de PhPycli sur github")
         info.Developers = ["Stephane"]
 
         rp = os.path.abspath(os.path.join(os.path.dirname(sys.argv[0]))) + '/datas/licence.txt'
